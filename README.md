@@ -119,10 +119,9 @@ The design is fully responsive with separate layouts for **Desktop** and **Mobil
 ## 🔗 Figma Design
 
 **Design File:**  
-https://www.figma.com/file/YOUR_FIGMA_FILE_LINK
+https://www.figma.com/design/NMZ5TwYBVBRsIWZyi0hhgc/fruit?node-id=0-1&t=UYH2PLjWQuQnoQZr-1
 
-**Prototype (Optional):**  
-https://www.figma.com/proto/YOUR_PROTOTYPE_LINK
+
 
 ---
 
@@ -157,13 +156,13 @@ Included Screens:
 
 ## 👨‍💻 Designer
 
-**Akilesh**
+**Dharaneeshwaran M**
 
 🎨 UI/UX Designer
 
 - 🌐 Portfolio: https://YOUR_PORTFOLIO_LINK
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/dharaneeshwaran-m-a4a7792a3/
+- 💻 GitHub: https://github.com/dharaneesh-44
 
 ---
 
